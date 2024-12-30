@@ -1,6 +1,8 @@
 # Flamework Icon Generator
 
-This repository contains the code and scripts to manage and generate icons for the entire project. The icons include circle and square designs and are exported in various formats (`PNG`, `JPEG`, `ICO`) and sizes for different use cases.
+[![Flamework](./dist/svg/android_dark.svg)](https://flamework.org)
+
+This repository contains the code and scripts to manage and generate icons for the entire project. The icons include circle, square, android and transparent designs and are exported in light and dark mode variantions and sizes for different use cases.
 
 ## Features
 
